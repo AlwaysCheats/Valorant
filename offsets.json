@@ -1,1 +1,7 @@
-sagasg
+{
+    "offsets": {
+        "gworld": "0x9ADCE70",
+        "fnamestate": "0xAF5BF80",
+        "fnamepool": "0xAF28FC0"
+    }
+}
